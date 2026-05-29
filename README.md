@@ -1,6 +1,56 @@
-# todo_app
+# Internship ShadowFox Projects
 
-TO DO List
+This repository contains Android development projects created during my internship at ShadowFox.
+
+## Projects Included
+
+### 1. Login Page with Welcome Screen
+
+A simple Android application featuring:
+
+* User Login Interface
+* Navigation to Welcome Screen
+* Clean UI Design
+* Activity Intent Handling
+
+### 2. Calculator App
+
+A basic calculator application that performs:
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* User-friendly Interface
+
+### 3. To-Do List App
+
+A task management application with features like:
+
+* Add Tasks
+* Delete Tasks
+* Mark Tasks as Completed
+* Simple and Interactive UI
+
+## Technologies Used
+
+* Android Studio
+* Java / Kotlin
+* XML
+* Firebase (if used)
+* Git & GitHub
+
+## Purpose
+
+These projects were developed for learning Android app development concepts and improving practical implementation skills during the internship.
+
+## Author
+
+Tannu Gupta
+
+## Repository
+
+Internship_ShadowFox
 
 ## Getting Started
 
