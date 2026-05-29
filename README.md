@@ -1,6 +1,6 @@
-# my_calculator
+# todo_app
 
-Calculator
+TO DO List
 
 ## Getting Started
 
